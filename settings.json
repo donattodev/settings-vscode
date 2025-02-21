@@ -77,7 +77,6 @@
     "graphql"
   ],
   "editor.semanticHighlighting.enabled": false,
-  "breadcrumbs.enabled": false,
   "editor.fontFamily": "JetBrains Mono",
   "editor.tabSize": 2,
   "security.workspace.trust.untrustedFiles": "newWindow",
@@ -163,5 +162,6 @@
   "files.autoSave": "afterDelay",
   "editor.wordWrap": "on",
   "terminal.integrated.defaultProfile.windows": "Git Bash",
-  "workbench.iconTheme": "symbols"
+  "workbench.iconTheme": "symbols",
+  "workbench.productIconTheme": "fluent-icons"
 }
